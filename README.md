@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Nandan0198/DailyCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nandan0198/DailyCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Nandan0198/DailyCode/tree/master/0643-maximum-average-subarray-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandan0198/DailyCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/Nandan0198/DailyCode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandan0198/DailyCode/tree/master/0005-longest-palindromic-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Nandan0198/DailyCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
