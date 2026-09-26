@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nandan0198/DailyCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Nandan0198/DailyCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nandan0198/DailyCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/Nandan0198/DailyCode/tree/master/0055-jump-game) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nandan0198/DailyCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandan0198/DailyCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Nandan0198/DailyCode/tree/master/0242-valid-anagram) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nandan0198/DailyCode/tree/master/1248-count-number-of-nice-subarrays) |
