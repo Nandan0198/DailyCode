@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Nandan0198/DailyCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Nandan0198/DailyCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nandan0198/DailyCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Nandan0198/DailyCode/tree/master/0434-number-of-segments-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
