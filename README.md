@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Nandan0198/DailyCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nandan0198/DailyCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/Nandan0198/DailyCode/tree/master/0055-jump-game) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nandan0198/DailyCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Nandan0198/DailyCode/tree/master/0493-reverse-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/Nandan0198/DailyCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Nandan0198/DailyCode/tree/master/0724-find-pivot-index) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Nandan0198/DailyCode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nandan0198/DailyCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Nandan0198/DailyCode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/Nandan0198/DailyCode/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandan0198/DailyCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Nandan0198/DailyCode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nandan0198/DailyCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Nandan0198/DailyCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Nandan0198/DailyCode/tree/master/0912-sort-an-array) |
 ## Binary Indexed Tree
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nandan0198/DailyCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Nandan0198/DailyCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -138,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nandan0198/DailyCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Nandan0198/DailyCode/tree/master/0055-jump-game) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nandan0198/DailyCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
