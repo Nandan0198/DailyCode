@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nandan0198/DailyCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandan0198/DailyCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0208-implement-trie-prefix-tree](https://github.com/Nandan0198/DailyCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Nandan0198/DailyCode/tree/master/0242-valid-anagram) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nandan0198/DailyCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandan0198/DailyCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandan0198/DailyCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Nandan0198/DailyCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Nandan0198/DailyCode/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Nandan0198/DailyCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Nandan0198/DailyCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nandan0198/DailyCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Nandan0198/DailyCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Nandan0198/DailyCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0933-number-of-recent-calls](https://github.com/Nandan0198/DailyCode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Nandan0198/DailyCode/tree/master/0933-number-of-recent-calls) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Nandan0198/DailyCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
